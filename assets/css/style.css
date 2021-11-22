@@ -67,15 +67,13 @@ section {
     padding: 60px;
 }
 
-/* Hero Style Start * /
 .hero {
-    background-image: url("..images/hero-bg.jpg") 
+    background-image: url('..images/hero-bg.jpg');
     height: 600px;
     background-size: cover;
     background-position: center;
     position:relative;
 }
-/* Hero Style End */
 
 .hero-form {
   border: 3px solid #024376;
