@@ -83,7 +83,7 @@ section {
   padding: 20px;
   width: 500px;
   color: #024e76;
-  position: absoulute;
+  position: absolute;
   bottom: 120px;
   right: 140px;
 }
@@ -179,10 +179,6 @@ section {
     font-size: 38px;
 }
 
-.steps span2 {
-    font-size: 38px;
-}
-
 .trainers {
     text-align: center;
 }
@@ -229,15 +225,6 @@ section {
 .trainer-bio p {
     font-size: 17px;
     line-height: 1.3;
-}
-
-.section-title {
-    font-size: 55px;
-    display: inline-block;
-    padding: 0 100px 20px 100px;
-    border-bottom: 3px solid;
-    margin-bottom: 35px;
-    color: #024e76;
 }
 
 /* REACH OUT STYLES START */
